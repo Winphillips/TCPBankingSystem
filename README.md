@@ -20,9 +20,8 @@ The server listens for incoming connections on a specified port and handles clie
 6. To close the program, enter `quit` or `close server` command in the client-side terminal.
 
 ## Example
-```
 Here's an example of how the client interacts with the banking system:
-
+```
 Enter command (deposit <amount>, withdraw <amount>, balance, quit): deposit 50
 Received response: Deposited $50. New balance: $150
 
